@@ -1,0 +1,22 @@
+{
+  "title": "Déployer une application Nginx sur Kubernetes",
+  "description": "Ce scénario vous guide dans le déploiement d'un Pod et d'un Service pour exposer Nginx sur Kubernetes.",
+  "difficulty": "Beginner",
+  "time": "15 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Étape 1 - Création du Pod",
+        "text": "scenario.md"
+      },
+      {
+        "title": "Étape 2 - Exposition via un Service",
+        "text": "scenario.md"
+      }
+    ]
+  },
+  "environment": {
+    "showdashboard": true,
+    "uilayout": "terminal-terminal"
+  }
+}
